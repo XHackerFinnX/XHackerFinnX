@@ -13,7 +13,7 @@
 
 ### 🧰 Languages and Tools
 
-Backend Development
+#### Backend Development
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -25,14 +25,14 @@ Backend Development
 
 <br/>
 
-API & Documentation
+#### API & Documentation
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" />
-<img align="left" alt="REST API" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/88/RESTful.svg" />
+<img align="left" alt="REST API" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/api-icon-download-in-svg-png-gif-file-formats--third-party-server-application-logic-client-data-exchange-engineering-pack-network-communication-icons-10989685.png?f=webp&w=256" />
 
 <br/>
 
-Frontend Development
+#### Frontend Development
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -40,7 +40,7 @@ Frontend Development
 
 <br/>
 
-Version Control & Deployment
+#### Version Control & Deployment
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
