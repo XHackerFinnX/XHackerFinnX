@@ -28,7 +28,7 @@
 #### API & Documentation
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Swagger" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" />
-<img align="left" alt="REST API" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/rest-api-config-4217053-3524266.png?f=webp&w=256" />
+<img align="left" alt="REST API" width="30px" style="padding-right:10px;" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-24.jpg" />
 
 <br/>
 
